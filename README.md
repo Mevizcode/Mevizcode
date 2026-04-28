@@ -9,9 +9,9 @@
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mevizcode&color=00d9ff&style=flat-square&label=Profile+Views)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=flat-square&logo=googledrive&logoColor=white)](https://your-resume-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mevizcode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=flat-square&logo=googlechrome&logoColor=white)](https://davidcole.tech)
+[![Resume](https://img.shields.io/badge/Resume-Download-00C853?style=flat-square&logo=googledrive&logoColor=white)](https://davidcole.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/david-cole-a61605339)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:davidsamcole69@gmail.com)
 
 </div>
@@ -150,9 +150,9 @@ What I bring to the table:
 
 | | |
 |---|---|
-| 🌐 **Portfolio** | [your-portfolio-url.com](https://your-portfolio-url.com) |
-| 📄 **Resume** | [View / Download](https://your-resume-link.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/mevizcode](https://linkedin.com/in/mevizcode) |
+| 🌐 **Portfolio** | [davidcole.tech](https://davidcole.tech) |
+| 📄 **Resume** | [View / Download](https://davidcole.tech) |
+| 💼 **LinkedIn** | [linkedin.com/in/david-cole](https://www.linkedin.com/in/david-cole-a61605339) |
 | 📧 **Email** | [davidsamcole69@gmail.com](mailto:davidsamcole69@gmail.com) |
 | 🐙 **GitHub** | [github.com/mevizcode](https://github.com/mevizcode) |
 
