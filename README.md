@@ -23,7 +23,7 @@
 I'm a **Software Engineer** from 🇸🇱 Freetown, Sierra Leone, focused on engineering systems that are **reliable**, **resilient**, and **built to scale**. I specialize in backend architecture, cloud infrastructure, and securing distributed systems — from designing APIs to shipping containerized workloads to production.
 
 - 🔭 Currently working on **CoursePaddy** as Lead Backend Engineer & DevOps — previously shipped **KeneCare** (telemedicine platform)
-- 🌩️ Hands-on experience deploying systems to **AWS / cloud platforms** with CI/CD pipelines
+- 🌩️ Hands-on experience deploying systems to **cloud platforms** with CI/CD pipelines
 - 🔐 Passionate about **system security** — auth workflows, secure data sharing, least-privilege infra
 - 🏗️ I think in systems: queues, caches, health checks, failover, and observability
 - 💡 Motto: *Imagination is everything — but execution is what ships*
@@ -45,7 +45,7 @@ A full-featured course platform where students take courses and earn certificate
 - Set up **observability and monitoring** with **New Relic** — performance tracking, error tracing, and alerting
 - Handled **cloud deployment, CI/CD pipelines**, and server infrastructure
 
-`NodeJs` `PostgreSQL` `Docker` `WebSockets` `New Relic` `Payments` `REST API`
+`NodeJs` `PostgreSQL` `Docker` `WebSockets` `Sentry` `Payments` `REST API` `JWT Auth` `AWS`
 
 ---
 
@@ -62,7 +62,7 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 - Set up **observability and monitoring** with **New Relic** — distributed tracing and system health dashboards
 - Integrated **prescription and follow-up** workflows between doctors and patients
 
-`NodeJs` `MySQL` `Redis` `JWT Auth` `New Relic` `Payments` `Secure File Sharing` `REST API`
+`NodeJs` `MySQL` `Redis` `JWT Auth` `AWS` `New Relic` `Payments` `Secure File Sharing` `REST API`
 
 ---
 
@@ -81,7 +81,6 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
 
 **DevOps & Cloud**
 
