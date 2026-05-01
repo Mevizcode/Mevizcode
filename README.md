@@ -127,7 +127,7 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 
 > **`cloud-native-starter`** — A production-ready microservices boilerplate (Spring Boot + Docker + K8s + CI/CD + Monitoring) that engineers can clone and ship — not just learn from.
 
-*Stay tuned* 👀
+*Stay tuned*
 
 ---
 
@@ -149,11 +149,11 @@ What I bring to the table:
 
 | | |
 |---|---|
-| 🌐 **Portfolio** | [davidcole.tech](https://davidcole.tech) |
+| 🌐 **Portfolio** | [Visit My Portfolio](https://davidcole.tech) |
 | 📄 **Resume** | [View / Download](https://davidcole.tech/public/resume/David_Cole_Resume.pdf) |
-| 💼 **LinkedIn** | [linkedin.com/in/david-cole](https://www.linkedin.com/in/david-cole-a61605339) |
-| 📧 **Email** | [davidsamcole69@gmail.com](mailto:davidsamcole69@gmail.com) |
-| 🐙 **GitHub** | [github.com/mevizcode](https://github.com/mevizcode) |
+| 💼 **LinkedIn** | [View My LinkedIn](https://www.linkedin.com/in/david-cole-a61605339) |
+| 📧 **Email** | [Email Me](mailto:davidsamcole69@gmail.com) |
+| 🐙 **GitHub** | [Github Profile](https://github.com/mevizcode) |
 
 > I typically respond within 24 hours. Don't hesitate to reach out — whether it's a job opportunity, a collaboration, or just a conversation about systems.
 
