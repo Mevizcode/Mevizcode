@@ -101,12 +101,12 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mevizcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevizcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -116,13 +116,13 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 
 ---
 
-## 🏗️ What I'm Building Next
+<!-- ## 🏗️ What I'm Building Next
 
 > **`cloud-native-starter`** — A production-ready microservices boilerplate (Spring Boot + Docker + K8s + CI/CD + Monitoring) that engineers can clone and ship — not just learn from.
 
 *Stay tuned*
 
----
+--- -->
 
 ## 💼 Open to Work
 
