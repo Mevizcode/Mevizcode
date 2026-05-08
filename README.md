@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/mevizcode">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+David+Cole+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+%7C+Security;Building+Reliable%2C+Scalable+Systems;From+Sierra+Leone+%F0%9F%87%B8%F0%9F%87%B1+to+the+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+David+Cole+%F0%9F%91%8B;Backend+Engineer+%7C+DevOps+%7C+Security;Building+Reliable%2C+Scalable+Systems;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer** from 🇸🇱 Freetown, Sierra Leone, focused on engineering systems that are **reliable**, **resilient**, and **built to scale**. I specialize in backend architecture, cloud infrastructure, and securing distributed systems — from designing APIs to shipping containerized workloads to production.
+I'm a **Software Engineer** from Freetown, Sierra Leone, focused on engineering systems that are **reliable**, **resilient**, and **built to scale**. I specialize in backend architecture, cloud infrastructure, and securing distributed systems — from designing APIs to shipping containerized workloads to production.
 
 - 🔭 Currently working on **CoursePaddy** as Lead Backend Engineer & DevOps — previously shipped **KeneCare** (telemedicine platform)
 - 🌩️ Hands-on experience deploying systems to **cloud platforms** with CI/CD pipelines
@@ -89,20 +89,13 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-**Security & Messaging**
+**Others**
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Monimee](https://img.shields.io/badge/Payments-635BFF?style=flat-square&logo=monimee&logoColor=white)
-
----
-
-## 📌 Featured Repositories
-
-[![Auth Workflow](https://github-readme-stats.vercel.app/api/pin/?username=mevizcode&repo=Authentication-Authorization-Workflow-with-Spring-Boot&theme=tokyonight&hide_border=true)](https://github.com/mevizcode/Authentication-Authorization-Workflow-with-Spring-Boot)
-[![Scalable Messaging](https://github-readme-stats.vercel.app/api/pin/?username=mevizcode&repo=Scalable-Messaging-System&theme=tokyonight&hide_border=true)](https://github.com/mevizcode/Scalable-Messaging-System)
 
 ---
 
