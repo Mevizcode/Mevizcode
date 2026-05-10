@@ -22,7 +22,7 @@
 
 I'm a **Software Engineer** from Freetown, Sierra Leone, focused on engineering systems that are **reliable**, **resilient**, and **built to scale**. I specialize in backend architecture, cloud infrastructure, and securing distributed systems — from designing APIs to shipping containerized workloads to production.
 
-- 🔭 Currently working on **CoursePaddy** as Lead Backend Engineer & DevOps — previously shipped **KeneCare** (telemedicine platform)
+- 🔭 Currently working on **CoursePaddy** as Lead Backend Engineer & DevOps — previously shipped **TDX Global** (dance competition platform) and **KeneCare** (telemedicine platform)
 - 🌩️ Hands-on experience deploying systems to **cloud platforms** with CI/CD pipelines
 - 🔐 Passionate about **system security** — auth workflows, secure data sharing, least-privilege infra
 - 🏗️ I think in systems: queues, caches, health checks, failover, and observability
@@ -50,7 +50,7 @@ A full-featured course platform where students take courses and earn certificate
 ---
 
 ### 🏥 [KeneCare](https://kenecare.com) — Telemedicine Platform
-> **Role:** Backend Developer (Team of 5) · 🔵 Completed
+> **Role:** Backend Developer (Team of 5) · 🔵 Completed `2025`
 
 A telemedicine system enabling patients to book appointments, doctors to prescribe and follow up, medical history storage, and **secure document sharing** between patients and providers.
 
@@ -66,6 +66,21 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 
 ---
 
+### 💃 [TDX Global](https://tdx-global.com) — International Dance Competition Platform
+> **Role:** Backend Developer (Team of 3) · 🔵 Completed · `2023 – 2025`
+ 
+An international dance competition management system connecting dance studios, dancers, judges, and event organisers on a single platform. Studios register dancers as solos or groups to compete in events hosted by TDX across multiple cities — the platform manages the full lifecycle of a competition, from studio onboarding to live event-day judging and results.
+ 
+- Built and maintained core **backend APIs** for studio registration, dancer enrollment (solos & groups), and routine management workflows
+- Engineered the **live event management system** — handling simultaneous multi-judge scoring in real time with conflict-free result aggregation across concurrent performances
+- Designed and implemented the **payment processing** pipeline for event entry fees and studio billing
+- Developed the **studio and admin management** modules — role-based access controls, event configuration, and audit tools for organisers
+- Built the **routine management system** — tracking entries, dance categories, performance schedules, and results per event
+- Delivered a **bilingual platform** (Chinese/English) serving international studios, dancers, and judges
+`C#` `ASP.NET` `MSSQL Server` `REST API` `Real-time Scoring` `Payments` `RBAC` `Studio Management`
+ 
+---
+
 ## 🛠️ Tech Stack
 
 **Backend**
@@ -75,11 +90,14 @@ A telemedicine system enabling patients to book appointments, doctors to prescri
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **DevOps & Cloud**
